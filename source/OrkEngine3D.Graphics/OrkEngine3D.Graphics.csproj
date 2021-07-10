@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Direct3D\" />
+    <Folder Include="Vulkan\" />
+    <Folder Include="SDL\" />
+    <Folder Include="OpenGL\" />
+  </ItemGroup>
+
+</Project>
