@@ -5,6 +5,7 @@
     <TargetFramework>net5.0</TargetFramework>
     <ApplicationIcon />
     <StartupObject />
+    <RootNamespace>OrkEngine3D</RootNamespace>
   </PropertyGroup>
 
 </Project>
