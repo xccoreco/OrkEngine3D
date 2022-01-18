@@ -4,7 +4,7 @@ namespace OrkEngine3D.Editor
 {
     internal class Module
     {
-        [ModuleInitializer]
+        
 
 
     }
