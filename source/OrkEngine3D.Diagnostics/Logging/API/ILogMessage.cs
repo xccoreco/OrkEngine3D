@@ -4,9 +4,9 @@
  */
 using OrkEngine3D.Diagnostics.Exceptions;
 
-namespace OrkEngine3D.Diagnostics
+namespace OrkEngine3D.Diagnostics.API
 {
-    public interface ILogMessege
+    public interface ILogMessage
     {
         LogMessageType Type { get; set; }
 
